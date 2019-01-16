@@ -1,0 +1,47 @@
+body {
+  background: url(../css/burger.jpg);
+  font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+  text-align: center;
+  size: 1000px;
+}
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+.flex-container {
+  display: flex;
+  border-color: brown;
+  padding: 100px;
+  margin: 10px;
+  
+}
+#left {
+  padding: 200px; 
+  margin: 250px;
+}
+#center {
+  
+  padding: 200px;
+  margin: 250px;
+}
+#right {
+  padding: 200px;
+  margin: 250px;
+}
